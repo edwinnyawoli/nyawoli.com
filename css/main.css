@@ -12,6 +12,7 @@ body, html {
     width: 100%;
     height: 100%;
     margin: 0;
+    color: #cac7c7;
     font-family: 'Raleway', sans-serif;
 }
 
@@ -41,7 +42,7 @@ nav {
 
 .name {
     font-size: 3rem;
-    font-family: 'Zeyada' !important;
+    font-family: 'Raleway' !important;
 }
 
 .sidebar {
@@ -58,7 +59,7 @@ nav {
 
 h1.job-description {
     font-family: 'Raleway', sans-serif;
-    color: #4a4a4a;
+    color: #cac7c7;
     text-align: center;
 }
 
@@ -79,11 +80,11 @@ h1.job-description {
 }
 
 .social > .icon {
-    color: #a2a2a2;
+    color: #8d8c8c;
 }
 
 .github.icon:hover {
-    color: #24292e;
+    color: #b1b4b6;
 }
 
 .twitter.icon:hover {
@@ -109,7 +110,6 @@ h1.job-description {
     height: initial;
     font-size: initial;
     font-weight: initial;
-
     padding: 15px 65px;
     display: inline-block;
     text-decoration: none;
@@ -117,7 +117,7 @@ h1.job-description {
 
 .blue.button {
     color: #FFFFFF;
-    background-color: #3b80fe;
+    background-color: #2d5db6;
 }
 
 .rounded-edge.button {
@@ -130,7 +130,7 @@ h1.job-description {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    /* background: url('../images/_MG_5858.jpg'); */
+    background-image: linear-gradient(180deg,rgba(0,0,0,.57),#222), url("https://uploads-ssl.webflow.com/5ab35eb33ef6057be2b497ea/5ab6a5c8dc7441742d518682_luca-bravo-207676-unsplash%20(1).jpg");
 }
 
 .about.page > p {
