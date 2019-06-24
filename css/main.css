@@ -142,7 +142,7 @@ img.rounded {
     border-radius: 50%;
 }
 
-@media(min-width: 400px) {
+@media(min-width: 480px) {
     .profile.image {
         display: none;
         width: 250px;
@@ -151,11 +151,10 @@ img.rounded {
 }
 
 .profile.image {
+    display: block;
     border-radius: 50%;
     background: url('../images/profile_2.png') 50% 50% no-repeat;
 }
-
-
 
 .work.page {
     background-color: #009ee2;
