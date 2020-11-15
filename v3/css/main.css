@@ -14,3 +14,7 @@ html, body {
         flex-direction: column-reverse!important
     }
 }
+
+#about {
+    background-color: #fafafa;
+}
