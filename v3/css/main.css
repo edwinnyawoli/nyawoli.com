@@ -8,3 +8,9 @@ html, body {
     border-radius: 200px;
     background-color: #00d1b2;
 }
+
+@media screen and (max-width: 768px) {
+    .is-flex-direction-column-reverse-mobile {
+        flex-direction: column-reverse!important
+    }
+}
