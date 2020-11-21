@@ -1,5 +1,6 @@
 html, body {
     font-family: 'Lato', sans-serif;
+    scroll-behavior: smooth;
 }
 
 .button.is-primary {
