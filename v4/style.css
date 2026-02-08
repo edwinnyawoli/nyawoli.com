@@ -183,6 +183,7 @@ body {
     transition: transform 0.15s ease, box-shadow 0.15s ease;
     min-width: 110px;
     max-width: 120px;
+    background: black;
     color: #ffffff;
 }
 
