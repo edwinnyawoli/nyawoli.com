@@ -84,6 +84,10 @@ body {
 
 /* Responsive: smaller screens */
 @media (max-width: 768px) {
+    .hero h2 {
+        font-size: 2rem;
+    }
+
     .hero-photo {
         flex: 0 0 140px;
     }
